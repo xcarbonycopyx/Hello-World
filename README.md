@@ -1,2 +1,3 @@
 # Hello-World
-Just another repoitory
+
+Just trying to git my GitHub on! I'll git it figured out eventually.
